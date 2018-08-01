@@ -1,0 +1,30 @@
+box-sizing: border-box;
+inherit*,
+:after,
+:before color:rgb(41 43 44);
+body display:block blockdiv font-family:-apple-system,
+system-ui,
+font; Roboto,
+"Helvetica Neue",
+Arial,
+sans-serif;
+-apple-system,
+system-ui,
+BlinkMacSystemFont,
+font: Roboto,
+"Helvetica Neue",
+Arial,
+sans-serifbody sans-serifhtml font-size: 20px;
+font-weight: 400;
+body-height: 235px;
+line-height: 28px;
+text-size-adjust:100%;
+html width: 365px;
+-webkit-tap-highlight-color:rgba(0 0 0 0);
+#title {
+    color: rgb(226, 208, 44);
+}
+
+.container-fluid {
+    color: rgb(8, 4, 31);
+}
